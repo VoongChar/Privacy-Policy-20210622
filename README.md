@@ -13,7 +13,7 @@
 # Principle 5 - Storage and security of personal information.
 - [ ] Assuring users that their information is being kept safe by having security measures such as firewalls.
 - [ ] Encourage users to be proactive in security by enabling 2 step authentication and/or having strong passwords.
-- [ ] Only keeping information for as long as necessary.
+- [ ] Only keeping information for as long as necessary, information is reguarly purged when they are no longer necessary.
 
 # Principle 6 - Access to personal information.
 - [ ] Users are able to regulary review their information on their profile.
