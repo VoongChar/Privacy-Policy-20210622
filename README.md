@@ -26,3 +26,17 @@ What information is necessary to help improve service and customer experience? e
 - [ ] Reminder notification for when users have not updated their information in 6+ months and to confirm it is still up to date
 
 # Task 2: Private Policy
+Website name: swapsytradey.co.nz (note: not a real site)
+Website description: A website similar to eBay and Trademe for people to sign up and sell or swap items or services. 
+
+Information that is collected, is personal information to set up a user profile (name, email, location). Information collected is used to verify the user, contact the user (in regard to items/services) and location (for pick up or searching local area).
+
+
+# Website's private policy: swapsytradey.co.nz/privacy-policy
+
+
+
+
+
+
+# How the privacy policy meets the five principles analysed in the privacy checklist:
