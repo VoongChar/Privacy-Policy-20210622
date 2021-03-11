@@ -32,11 +32,11 @@ Website description: A website similar to eBay and Trademe for people to sign up
 Information that is collected, is personal information to set up a user profile (name, email, location). Information collected is used to verify the user, contact the user (in regard to items/services) and location (for pick up or searching local area).
 
 
-# Website's private policy: swapsytradey.co.nz/privacy-policy
+## Website's private policy: swapsytradey.co.nz/privacy-policy
 
 
 
 
 
 
-# How the privacy policy meets the five principles analysed in the privacy checklist:
+## How the privacy policy meets the five principles analysed in the privacy checklist:
