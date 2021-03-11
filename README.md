@@ -34,9 +34,29 @@ Information that is collected, is personal information to set up a user profile 
 
 ## Website's private policy: swapsytradey.co.nz/privacy-policy
 
+Welcome to the Swapsy Tradey community.
 
+Swapsy Tradey will collect and use your personal information to deliver an enjoyable community online experiences you’ll love. We're always making improvements to our services for the best outcome for our community.
 
+We collect personal information from you, including information about your:
+- Name
+- Contact information
+- Location
+- Billing or purchase information
 
+We collect your personal information in order to:
+- provide services and improve customer experience with their experience
+- collect your financial information for paying or buying services
+
+When you sign up and register for our services you are required to create a user profile to access our services. We will only collect necessary information such as your email and your online username and whatever else you choose to share with us when creating your profile. Please note that your username is viewable by all users and does not have to be your name but must be appropriate. Usernames that contain offensive language or racial or sexual slurs will not be accepted or tolerated.
+
+We will not share your personal information or data with any third-parties. Only you and our staff will be able to view your information. You can choose what information you wish to display and share on your user profile with others in the community.
+
+Providing some information is optional. If you choose not to enter verify your email, we'll be unable to provide you with services. This is to create a trusted and verified community environment for all parties using our services.
+
+You can always change or amend your personal information and privacy settings by logging in on Swapsy Tradey and selecting 'settings' under your profile picture. You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at customerservice@swapsytradey.co.nz, or 0800 swaypsy tradey, or 123 Fake Street. You can also learn more about your privacy rights by talking to the Office of the Privacy Commissioner.
+
+Happy trading!
 
 
 ## How the privacy policy meets the five principles analysed in the privacy checklist:
