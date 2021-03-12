@@ -27,9 +27,9 @@ What information is necessary to help improve service and customer experience? e
 
 # Task 2: Private Policy
 Website name: swapsytradey.co.nz (note: not a real site)
-Website description: A website similar to eBay and Trademe for people to sign up and sell or swap items or services. 
+Website description: A website similar to eBay and Trademe for people to sign-up and sell or swap items or services. 
 
-Information that is collected, is personal information to set up a user profile (name, email, location). Information collected is used to verify the user, contact the user (in regard to items/services) and location (for pick up or searching local area).
+Information that is collected is personal information to set up a user profile (name, email, location). Information collected is used to verify the user, contact the user (in regard to items/services) and location (for pick up or searching local area).
 
 
 ## Website's private policy: swapsytradey.co.nz/privacy-policy
@@ -48,7 +48,7 @@ We collect your personal information in order to:
 - provide services and improve customer experience with their experience
 - collect your financial information for paying or buying services
 
-We are committed to keeping your personal information as safe and secure as possible and follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. We continiously update and implement security measures that protect your information against unauthorised access, loss, destruction, or alteration. In addition to our safety measures, we encourage everyone in the community to also be proactive and use 2-step authentication 
+We are committed to keeping your personal information as safe and secure as possible. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it and continiously update and implement security measures that protect your information against unauthorised access, loss, destruction, or alteration. In addition to our safety measures, we encourage everyone in the community to also be proactive and use 2-step authentication.
 
 When you sign up and register for our services you are required to create a user profile to access our services. We will only collect necessary information such as your email and your online username and whatever else you choose to share with us when creating your profile. Please note that your username is viewable by all users and does not have to be your name but must be appropriate. Usernames that contain offensive language or racial or sexual slurs will not be accepted or tolerated.
 
@@ -63,25 +63,28 @@ Happy trading!
 
 ## How the privacy policy meets the five principles analysed in the privacy checklist:
 Principle 1:Purpose of collection of personal information.
-- [] Purpose of collection is stated as to improve customer experience and to create a trusted and verified environment for the community
-- [] What is collected from users are stated and users are advised that some information is optional
-- [] If users choose not to share their information it is stated that they will not be able to access services
-- [] Users have the option to add the bare minimum of personal information to access services
+- [ ] Purpose of collection is stated as to improve customer experience and to create a trusted and verified environment for the community
+- [ ] What is collected from users are stated and users are advised that some information is optional
+- [ ] If users choose not to share their information it is stated that they will not be able to access services
+- [ ] Users have the option to add the bare minimum of personal information to access services
 
 Principle 3: Collection of information from subject.
-- [] What is collected from users are stated and users are advised that some information is optional. 
-- [] Usesrs are advised that only our staff and themselves will be able to view the information they have shared (advised what is publically shared)
-- [] Users have the option to add the bare minimum of personal information to access services
-- [] Users can choose to add additional information to their profiles
-- [] Users are made aware of what information is shared publically with the community and have privacy settings they choose with their preferences
+- [ ] What is collected from users are stated and users are advised that some information is optional. 
+- [ ] Usesrs are advised that only our staff and themselves will be able to view the information they have shared (advised what is publically shared)
+- [ ] Users have the option to add the bare minimum of personal information to access services
+- [ ] Users can choose to add additional information to their profiles
+- [ ] Users are made aware of what information is shared publically with the community and have privacy settings they choose with their preferences
 
 Principle 5: Storage and security of personal information.
+- [ ] Using industry standard to protectpersonal information
+- [ ] Continious improvement for security updates
+- [ ] Encouraging users to use 2-step authentication
 
 Principle 6: Access to personal information.
-- [] Users can request at any time the information that we hold on them
-- [] Users can contact us to request all information held about them and will have our phone, email and address to contact us
+- [ ] Users can request at any time the information that we hold on them
+- [ ] Users can contact us to request all information held about them and will have our phone, email and address to contact us
 
 Principle 7: Correction of personal information.
-- [] Users can amend their personal details and what is shared publically
-- [] Users can contact us to request all information held about them at any time
-- [] Users will have our phone, email and address to contact us
+- [ ] Users can amend their personal details and what is shared publically
+- [ ] Users can contact us to request all information held about them at any time
+- [ ] Users will have our phone, email and address to contact us
