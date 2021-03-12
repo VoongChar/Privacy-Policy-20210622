@@ -10,7 +10,7 @@ What information is necessary to help improve service and customer experience? e
 
 ## Principle 3 - Collection of information from subject.
 - [ ] Informing users that the website will be collecting their information, this will appear as part of registering and users will have a button to select that they accept and understand what this means.
-- [ ] Mandatory fields are indicated with an asterik on the registration page and some fields are vountary.
+- [ ] Mandatory fields are indicated with an asterik on the registration page and some fields are voluntary.
 
 ## Principle 5 - Storage and security of personal information.
 - [ ] Assuring users that their information is being kept safe by having security measures such as firewalls.
@@ -48,9 +48,9 @@ We collect your personal information in order to:
 - provide services and improve customer experience with their experience
 - collect your financial information for paying or buying services
 
-We are committed to keeping your personal information as safe and secure as possible. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it and continiously update and implement security measures that protect your information against unauthorised access, loss, destruction, or alteration. In addition to our safety measures, we encourage everyone in the community to also be proactive and use 2-step authentication.
+We are committed to keeping your personal information as safe and secure as possible. We follow accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it and continiously update and implement security measures that protect your information against unauthorised access, loss, destruction, or alteration. In addition to our safety measures, we encourage everyone in the community to also be proactive and use 2-step authentication.
 
-When you sign up and register for our services you are required to create a user profile to access our services. We will only collect necessary information such as your email and your online username and whatever else you choose to share with us when creating your profile. Please note that your username is viewable by all users and does not have to be your name but must be appropriate. Usernames that contain offensive language or racial or sexual slurs will not be accepted or tolerated.
+When you sign up and register for our services you are required to create a user profile to access our services. We will only collect necessary information such as your email and your online username and any other information you choose to share with us when creating your profile. Please note that your username is viewable by all users and does not have to be your name but must be appropriate. Usernames that contain offensive language, racial or sexual slurs will not be accepted.
 
 We will not share your personal information or data with any third-parties. Only you and our staff will be able to view all your information. You can choose what information you wish to display and share on your user profile with others in the community.
 
@@ -76,7 +76,7 @@ Principle 3: Collection of information from subject.
 - [ ] Users are made aware of what information is shared publically with the community and have privacy settings they choose with their preferences
 
 Principle 5: Storage and security of personal information.
-- [ ] Using industry standard to protectpersonal information
+- [ ] Using industry standard to protect personal information
 - [ ] Continious improvement for security updates
 - [ ] Encouraging users to use 2-step authentication
 
